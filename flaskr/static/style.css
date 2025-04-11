@@ -2,7 +2,7 @@
 
 html {
     margin: 25px;
-    background-color: lightblue;
+    background-color: white;
     font-family: verdana;
     font-size: 20px;
 }
@@ -12,10 +12,11 @@ h3 {
     background-color: lightblue;
     font-size: 30px;
     font-weight: bolder;
+    text-align: center;
 }
 
 p {
     margin-top: 10px;
     margin-left: 15px;
-    background-color: lightblue;
-}
+    /*background-color: lightblue;*/
+    ;}
